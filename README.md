@@ -26,3 +26,11 @@ In my local community, exposure to computer science is minimal, and programming 
 
 - Check `/curriculum` for slide decks and teaching guides.
 - Check `/exercises` for in-class programs students made.
+##  Live Teaching Session Recordings
+
+Watch full recordings of our live weekly Python workshops:
+
+- [Session 1: Variables,print & Input Handling](https://drive.google.com/file/d/11tktkTlCpy60i9GSKxDf2O3aSk2EoAI0/view?usp=drive_link)
+- [Session 2: Conditional Logic & If/Else](.....)
+- [Session 3: Loops (while/for)](.....)
+- [Session 4: Final project](.....)
