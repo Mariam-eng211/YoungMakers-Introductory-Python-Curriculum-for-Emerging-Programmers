@@ -11,11 +11,11 @@ In my local community, exposure to computer science is minimal, and programming 
 
 1. **Low Exposure & Engagement:** Many students had never seen practical applications of code, leading to low initial interest.
 2. **Hardware Constraints:** Most students lacked personal laptops or desktop computers, making traditional setup-heavy coding courses irrelevant to their daily reality.
-   Approaches:
+Approaches:
 - **Mobile-First Accessibility:** Integrated cloud-based development environments like programiz.com (IDEs) optimized for mobile interfaces.
 - **Project-Based Milestones:** Shifted focus away from abstract syntax toward building functional, interactive projects in every single session.
 - **Scaffolding & Mentorship:** Provided live code-alongs paired with guided practice problems to build problem-solving confidence.
-  Curriculum
+Curriculum
   | Session | Core Concepts | Hands-On Project | Focus Area |
 | --- | --- | --- | --- |
 | **Week 1** | Syntax, Variables, Data Types, User Input | **Interactive Text Story** | Understanding execution flow & input handling |
