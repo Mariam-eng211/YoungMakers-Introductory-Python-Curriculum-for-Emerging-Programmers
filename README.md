@@ -33,5 +33,5 @@ Watch full recordings of our live weekly Python workshops:
 - [Session 1: Variables,print & Input Handling](https://drive.google.com/file/d/11tktkTlCpy60i9GSKxDf2O3aSk2EoAI0/view?usp=drive_link)
 - [Session 2: Conditional Logic & If/Else](https://drive.google.com/file/d/1kV3rHjatcsJraf00zF8HgdstnXHVJeiX/view?usp=drive_link)
 - [Session 2: Conditional Logic & If/Else](https://drive.google.com/file/d/1iC0nA7E-DRMYgQ0UO-VtOWn18jEzqaQF/view?usp=drive_link)
-- [Session 3: Loops (while/for)](.....)
+- [Session 3: Loops (while/for)](https://drive.google.com/file/d/1hQXhCHebtRZCn_zuGhp1Eit19SX0E201/view?usp=sharing)
 - [Session 4: Final project](.....)
